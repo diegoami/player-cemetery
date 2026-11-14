@@ -1,0 +1,9 @@
+# Local game state; published archives and curated dossiers remain tracked.
+/save/
+/user/
+/archive/
+/panic/
+/scores/
+/recordings/*/
+/recordings/.export-*.tmp
+/deaths/.registry.lock
