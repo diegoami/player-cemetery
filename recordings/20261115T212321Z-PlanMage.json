@@ -1,0 +1,25 @@
+{
+  "schema": "borg-reborn-rs/guided-recording-export@1",
+  "id": "20261115T212321Z-PlanMage",
+  "archive": "20261115T212321Z-PlanMage.zip",
+  "archive_sha256": "d8f942488c143861900c9d1b447b6ef0385e273acc2be782637d7aca8aaad47e",
+  "archive_bytes": 13974272,
+  "source_commit": "820140e0409b34f0ee53cabfbac2b57a39f62e7e",
+  "source_sha256": "49daaed675fabc79b856d01951081ae906ae33bb3b5e0972ca4162d36260c7bb",
+  "executable_sha256": "f13c46b148c6e614d21d0e525cf448df6c0376173882f1d31b069bdf97839885",
+  "plan_sha256": "922372ba849489c579449f8cd6f827b29ed65b6e8e0f67bd0fe8be2f3cb160cd",
+  "character_display_name": "PlanMageCheck",
+  "session_label": "PlanMage",
+  "status": "complete-death",
+  "continued_life_segments": [
+    "qualification",
+    "live"
+  ],
+  "not_a_zoo_measurement": true,
+  "replay_verified": true,
+  "final_save_and_core_trace_byte_identical": true,
+  "death_report": "../deaths/20261115T212725Z-PlanMage-wild-cat/report.md",
+  "issue": "https://github.com/diegoami/borg-reborn-rs/issues/350",
+  "restore": "Extract ZIP. Frozen matching game/recorder executables are required; their hashes and original launch paths are retained. This is a borg-reborn-rs archive, not the borg-rs cemetery_publish.py import schema. Replays use copied profiles and preserved starting saves; never overwrite original evidence.",
+  "excluded_binaries": "Frozen runtime/game and recorder remain local in the complete raw session runtime directory."
+}

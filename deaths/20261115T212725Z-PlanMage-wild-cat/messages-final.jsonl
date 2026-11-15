@@ -1,0 +1,109 @@
+{"frame": 26800, "text": "# SELF:evil (+)", "turn": 411618, "type": 0}
+{"frame": 26800, "text": "# Detected evil (0,0 to 1,1)", "turn": 411618, "type": 0}
+{"frame": 26800, "text": "# Creating a monster 'squint-eyed rogue' at (19,10), HP: 9, Index: 10", "turn": 411618, "type": 0}
+{"frame": 26800, "text": "# Removing Regional Fear (19,10) because of a LOS squint-eyed rogue", "turn": 411618, "type": 0}
+{"frame": 26800, "text": "# Creating a monster 'pitiful-looking beggar' at (12,17), HP: 3, Index: 8", "turn": 411618, "type": 0}
+{"frame": 26800, "text": "# Removing Regional Fear (12,17) because of a LOS pitiful-looking beggar", "turn": 411618, "type": 0}
+{"frame": 26800, "text": "# Creating a monster 'scrawny cat' at (8,13), HP: 2, Index: 2", "turn": 411618, "type": 0}
+{"frame": 26800, "text": "# Removing Regional Fear (8,13) because of a LOS scrawny cat", "turn": 411618, "type": 0}
+{"frame": 26800, "text": "# Creating a monster 'boil-covered wretch' at (7,47), HP: 2, Index: 6", "turn": 411618, "type": 0}
+{"frame": 26800, "text": "# Removing Regional Fear (7,47) because of a LOS boil-covered wretch", "turn": 411618, "type": 0}
+{"frame": 26800, "text": "# SELF:evil (1)", "turn": 411618, "type": 0}
+{"frame": 26800, "text": "# Scary guy on level.", "turn": 411618, "type": 0}
+{"frame": 26800, "text": "# Leaving (Scary guy on level)", "turn": 411618, "type": 0}
+{"frame": 26800, "text": "# Fleeing (Scary guy on level)", "turn": 411618, "type": 0}
+{"frame": 26800, "text": "# Standing on dn-stairs", "turn": 411618, "type": 0}
+{"frame": 26800, "text": "# Fleeing and leaving the level. (scaryguy)", "turn": 411618, "type": 0}
+{"frame": 26800, "text": "You enter a maze of down staircases.", "turn": 411618, "type": 29}
+{"frame": 26800, "text": "This seems a tame, sheltered place.", "turn": 411618, "type": 0}
+{"frame": 26800, "text": "You have found a secret door.", "turn": 411618, "type": 0}
+{"frame": 26804, "text": "# FEELING_DANGER:8 (+)", "turn": 411618, "type": 0}
+{"frame": 26804, "text": "# Creating an object 'copper' at (130,41)", "turn": 411618, "type": 0}
+{"frame": 26804, "text": "# FEELING_DANGER:8 (1)", "turn": 411618, "type": 0}
+{"frame": 26804, "text": "# Errand: loop town overrides the loop, target DL0.", "turn": 411618, "type": 0}
+{"frame": 26804, "text": "# Flowing toward Scum item at cost 3", "turn": 411618, "type": 0}
+{"frame": 26804, "text": "You hear a door burst open!", "turn": 411624, "type": 0}
+{"frame": 26808, "text": "You have found a secret door.", "turn": 411628, "type": 0}
+{"frame": 26808, "text": "You hear a door burst open!", "turn": 411629, "type": 0}
+{"frame": 26812, "text": "# Monster opened door at 40,133.  That's scary.", "turn": 411638, "type": 0}
+{"frame": 26812, "text": "# Creating a monster 'wild cat' at (41,132), HP: 9, Index: 51", "turn": 411638, "type": 0}
+{"frame": 26812, "text": "# Removing Regional Fear (41,132) because of a LOS wild cat", "turn": 411638, "type": 0}
+{"frame": 26812, "text": "# Fleeing level. Scumming Mode", "turn": 411638, "type": 0}
+{"frame": 26812, "text": "# Leaving (finish shopping)", "turn": 411638, "type": 0}
+{"frame": 26812, "text": "# Scary guy on level.", "turn": 411638, "type": 0}
+{"frame": 26812, "text": "# Loc:41,131 Dep:1 Lev:5 HP:26/26 SP:2/10 Danger:p=12", "turn": 411638, "type": 0}
+{"frame": 26812, "text": "# Fleeing and leaving the level. (scaryguy)", "turn": 411638, "type": 0}
+{"frame": 26812, "text": "# Flowing toward up-stairs at cost 2", "turn": 411638, "type": 0}
+{"frame": 26812, "text": "# Walking into a 'wild cat' at (41,132)", "turn": 411638, "type": 0}
+{"frame": 26812, "text": "You miss the wild cat.", "turn": 411638, "type": 3}
+{"frame": 26812, "text": "The wild cat claws you.", "turn": 411640, "type": 38}
+{"frame": 26812, "text": "The wild cat claws you.", "turn": 411640, "type": 38}
+{"frame": 26812, "text": "The wild cat claws you.", "turn": 411646, "type": 38}
+{"frame": 26812, "text": "The wild cat misses you.", "turn": 411646, "type": 0}
+{"frame": 26816, "text": "# MISS:the wild cat (+)", "turn": 411648, "type": 0}
+{"frame": 26816, "text": "# HIT_BY:The wild cat (+)", "turn": 411648, "type": 0}
+{"frame": 26816, "text": "# HIT_BY:The wild cat (+)", "turn": 411648, "type": 0}
+{"frame": 26816, "text": "# HIT_BY:The wild cat (+)", "turn": 411648, "type": 0}
+{"frame": 26816, "text": "# MISS_BY:The wild cat (+)", "turn": 411648, "type": 0}
+{"frame": 26816, "text": "# Monster opened door at 40,133.  That's scary.", "turn": 411648, "type": 0}
+{"frame": 26816, "text": "# Creating a monster 'wild cat' at (41,133), HP: 9, Index: 51", "turn": 411648, "type": 0}
+{"frame": 26816, "text": "# Removing Regional Fear (41,133) because of a LOS wild cat", "turn": 411648, "type": 0}
+{"frame": 26816, "text": "# MISS:the wild cat (2)", "turn": 411648, "type": 0}
+{"frame": 26816, "text": "# HIT_BY:The wild cat (3)", "turn": 411648, "type": 0}
+{"frame": 26816, "text": "# HIT_BY:The wild cat (3)", "turn": 411648, "type": 0}
+{"frame": 26816, "text": "# HIT_BY:The wild cat (3)", "turn": 411648, "type": 0}
+{"frame": 26816, "text": "# MISS_BY:The wild cat (3)", "turn": 411648, "type": 0}
+{"frame": 26816, "text": "# Flowing toward Scum item at cost 1", "turn": 411648, "type": 0}
+{"frame": 26816, "text": "# Walking onto and deleting a 'copper' at (41,130)", "turn": 411648, "type": 0}
+{"frame": 26816, "text": "The wild cat claws you.", "turn": 411657, "type": 38}
+{"frame": 26816, "text": "The wild cat claws you.", "turn": 411657, "type": 38}
+{"frame": 26816, "text": "You have found 120 gold pieces worth of copper.", "turn": 411658, "type": 82}
+{"frame": 26820, "text": "# HIT_BY:The wild cat (+)", "turn": 411658, "type": 0}
+{"frame": 26820, "text": "# HIT_BY:The wild cat (+)", "turn": 411658, "type": 0}
+{"frame": 26820, "text": "# Monster opened door at 40,133.  That's scary.", "turn": 411658, "type": 0}
+{"frame": 26820, "text": "# Tracking a monster 'wild cat' at (41,132) from (41,133)", "turn": 411658, "type": 0}
+{"frame": 26820, "text": "# Tracking a monster 'wild cat' at (41,131) from (41,132)", "turn": 411658, "type": 0}
+{"frame": 26820, "text": "# HIT_BY:The wild cat (3)", "turn": 411658, "type": 0}
+{"frame": 26820, "text": "# HIT_BY:The wild cat (3)", "turn": 411658, "type": 0}
+{"frame": 26820, "text": "# Fleeing level. Scumming Mode", "turn": 411658, "type": 0}
+{"frame": 26820, "text": "# Possibility of being surrounded (monsters/safegrids)(2/0)", "turn": 411658, "type": 0}
+{"frame": 26820, "text": "# Scary guy on level.", "turn": 411658, "type": 0}
+{"frame": 26820, "text": "# Loc:41,130 Dep:1 Lev:5 HP:14/26 SP:2/10 Danger:p=13", "turn": 411658, "type": 0}
+{"frame": 26820, "text": "# Fleeing and leaving the level. (scaryguy)", "turn": 411658, "type": 0}
+{"frame": 26820, "text": "# Flowing toward up-stairs at cost 3", "turn": 411658, "type": 0}
+{"frame": 26820, "text": "# Walking into a 'wild cat' at (41,131)", "turn": 411658, "type": 0}
+{"frame": 26820, "text": "You miss the wild cat.", "turn": 411658, "type": 3}
+{"frame": 26820, "text": "The wild cat claws you.", "turn": 411663, "type": 38}
+{"frame": 26820, "text": "The wild cat claws you.", "turn": 411663, "type": 38}
+{"frame": 26820, "text": "You have been given a graze.", "turn": 411663, "type": 77}
+{"frame": 26820, "text": "The wild cat claws you.", "turn": 411668, "type": 38}
+{"frame": 26820, "text": "The wild cat claws you.", "turn": 411668, "type": 38}
+{"frame": 26824, "text": "# MISS:the wild cat (+)", "turn": 411668, "type": 0}
+{"frame": 26824, "text": "# HIT_BY:The wild cat (+)", "turn": 411668, "type": 0}
+{"frame": 26824, "text": "# HIT_BY:The wild cat (+)", "turn": 411668, "type": 0}
+{"frame": 26824, "text": "# HIT_BY:The wild cat (+)", "turn": 411668, "type": 0}
+{"frame": 26824, "text": "# HIT_BY:The wild cat (+)", "turn": 411668, "type": 0}
+{"frame": 26824, "text": "# Monster opened door at 40,133.  That's scary.", "turn": 411668, "type": 0}
+{"frame": 26824, "text": "# MISS:the wild cat (2)", "turn": 411668, "type": 0}
+{"frame": 26824, "text": "# HIT_BY:The wild cat (3)", "turn": 411668, "type": 0}
+{"frame": 26824, "text": "# HIT_BY:The wild cat (3)", "turn": 411668, "type": 0}
+{"frame": 26824, "text": "# HIT_BY:The wild cat (3)", "turn": 411668, "type": 0}
+{"frame": 26824, "text": "# HIT_BY:The wild cat (3)", "turn": 411668, "type": 0}
+{"frame": 26824, "text": "# Fleeing level. Scumming Mode", "turn": 411668, "type": 0}
+{"frame": 26824, "text": "# Possibility of being surrounded (monsters/safegrids)(2/0)", "turn": 411668, "type": 0}
+{"frame": 26824, "text": "# Scary guy on level.", "turn": 411668, "type": 0}
+{"frame": 26824, "text": "# Loc:41,130 Dep:1 Lev:5 HP:4/26 SP:2/10 Danger:p=13", "turn": 411668, "type": 0}
+{"frame": 26824, "text": "# Fleeing and leaving the level. (scaryguy)", "turn": 411668, "type": 0}
+{"frame": 26824, "text": "# Adjacent to monster on Scaryguy Level.", "turn": 411668, "type": 0}
+{"frame": 26824, "text": "# Adjacent to monster on Scaryguy Level.", "turn": 411668, "type": 0}
+{"frame": 26824, "text": "# Performing attack type 1 with value 25.", "turn": 411668, "type": 0}
+{"frame": 26824, "text": "# Facing wild cat at (41,131) who has 9 Hit Points.", "turn": 411668, "type": 0}
+{"frame": 26824, "text": "# Attacking with weapon 'Rapier (1d6) (+0,+0)'", "turn": 411668, "type": 0}
+{"frame": 26824, "text": "You miss the wild cat.", "turn": 411668, "type": 3}
+{"frame": 26824, "text": "The wild cat claws you.", "turn": 411674, "type": 38}
+{"frame": 26824, "text": "The wild cat claws you.", "turn": 411674, "type": 38}
+{"frame": 26824, "text": "You die.", "turn": 411674, "type": 8}
+{"frame": 26824, "text": "Score not registered for borgs.", "turn": 411674, "type": 0}
+{"frame": 26824, "text": "# Aborting (death).", "turn": 411674, "type": 0}
+{"frame": 26824, "text": "# Aborting (player died).", "turn": 411674, "type": 0}
+{"frame": 26824, "text": "# Removing keypress hook", "turn": 411674, "type": 0}

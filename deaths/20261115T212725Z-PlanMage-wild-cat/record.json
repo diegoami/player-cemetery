@@ -1,0 +1,41 @@
+{
+  "schema": "borg-reborn-rs/guided-death-analysis@1",
+  "id": "20261115T212725Z-PlanMage-wild-cat",
+  "source_commit": "820140e0409b34f0ee53cabfbac2b57a39f62e7e",
+  "source_sha256": "49daaed675fabc79b856d01951081ae906ae33bb3b5e0972ca4162d36260c7bb",
+  "executable_sha256": "f13c46b148c6e614d21d0e525cf448df6c0376173882f1d31b069bdf97839885",
+  "session": "20261115T212321Z-PlanMage",
+  "character_display_name": "PlanMageCheck",
+  "session_label": "PlanMage",
+  "watched_not_measured": true,
+  "continued_life_segments": [
+    "qualification",
+    "live"
+  ],
+  "death": {
+    "cause": "a wild cat",
+    "turn": 411674,
+    "level": 5,
+    "depth": 1,
+    "hp": -3,
+    "max_hp": 26
+  },
+  "verified_replay": true,
+  "files_sha256": {
+    "frame-26812.txt": "526537b8a03023772e672161556e3db4bbc2917cc6d918caaf0c0eb2bb9e1e05",
+    "frame-26816.txt": "8ef8f9aaf3c8b705418fbf9e4e6e8b621c64ac1b3272578f70aae7ae4736cf6c",
+    "frame-26820.txt": "9395f73d93f798d3fecc65196131a0600c301a06999f7161c3e0db51acbf90ab",
+    "frame-26824.txt": "2a8f36ae4f6d95d1ec7671fb70840caa3d3f8ce419d382f13b6283de2508b925",
+    "frame-26825.txt": "c3e2b1eb5f1cafec9e5fa1cf5ff5fe6b49924fb88bdea34ab3e4cf56ceb5a061",
+    "messages-final.jsonl": "f3ef324b79cc01b1455c4a635c15f29db9f4e556104c0133fb1aff314577dd93",
+    "replay.json": "a9d87ab355edd5798e6dd32c2a584f91a6703a5a27fbdd42bad3bc241703969a",
+    "report.md": "472d7d896b4e1ee04a78d0d383ad4f4fcb15641c19553f059b0ca9f29d7bb4ea",
+    "state-26812.json": "2ac80bfdb7768a22b7489d3fcc7d970c8039dcc8fb70b8569254adceb7abf40d",
+    "state-26816.json": "3577087cff83b55e61ec2b688e9411e6bae6a678e71affc3cb35351cc01d098d",
+    "state-26820.json": "e5ca5b4765be861b1e9fb4706997a252939ee0490a8c30d2bd29d231ff9e3e8a",
+    "state-26824.json": "67915c2b7753b8c6c14e4a13c3ff394ef123a3cb051ff00fa76052351439c03e",
+    "state-26825.json": "0f8e10218c656212dc45ad362b45fb5ee3272f9e9e48019c0f9079b675aaa2c7",
+    "trace-final.jsonl": "31fb98ddd8fcd04df546b20bf00ebc2cedebae6b7576418baffb6a55243cfaa6"
+  },
+  "issue": "https://github.com/diegoami/borg-reborn-rs/issues/350"
+}

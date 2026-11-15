@@ -1,0 +1,24 @@
+Do you want to quit? [y/n]
+
+            _______________________                i) Information
+           /                       \         ___   m) Messages
+          /                         \ ___   /   \  f) File dump
+         /            RIP            \   \  :   :  v) View scores
+        /                             \  : _;,,,;_ x) Examine items
+       /         PlanMageCheck         \,;_        h) History
+      |               the               |   ___    s) Spoilers
+      |             Novice              |  /   \   n) New Game
+      |                                 |  :   :   q) Quit
+      |              Mage               | _;,,,;_   ____
+      |            Level: 5             |          /    \
+      |             Exp: 98             |          :    :
+      |             AU: 285             |          :    :
+      |        Killed on Level 1        |         _;,,,,;_
+      |         by a wild cat.          |
+      |                                 |
+      |   on Sun Nov 15 21:27:25 2026   |
+     *|   *     *     *    *   *     *  | *
+_____)/\\_)_/___(\/___(//_\)/_\//__\\(/_|_)__________________________
+
+
+

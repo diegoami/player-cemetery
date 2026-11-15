@@ -1,0 +1,735 @@
+{
+  "cause": "a wild cat",
+  "cheat_live": 0,
+  "class_idx": 1,
+  "dead": 1,
+  "decisions": 21962,
+  "depth": 1,
+  "details": {
+    "borg": {},
+    "gear": [
+      {
+        "actual_kind": "[First Spells]",
+        "aware": 1,
+        "inscription": "",
+        "known_kind": "[First Spells]",
+        "pval": 0,
+        "quantity": 4,
+        "timeout": 0,
+        "to_a": 0,
+        "to_d": 0,
+        "to_h": 0,
+        "weight": 30
+      },
+      {
+        "actual_kind": "& Rapier~",
+        "aware": 1,
+        "inscription": "",
+        "known_kind": "& Rapier~",
+        "pval": 0,
+        "quantity": 1,
+        "timeout": 0,
+        "to_a": 0,
+        "to_d": 0,
+        "to_h": 0,
+        "weight": 40
+      },
+      {
+        "actual_kind": "Cure Light Wounds",
+        "aware": 1,
+        "inscription": "",
+        "known_kind": "Cure Light Wounds",
+        "pval": 0,
+        "quantity": 16,
+        "timeout": 0,
+        "to_a": 0,
+        "to_d": 0,
+        "to_h": 0,
+        "weight": 4
+      },
+      {
+        "actual_kind": "Boldness",
+        "aware": 1,
+        "inscription": "",
+        "known_kind": "Boldness",
+        "pval": 0,
+        "quantity": 4,
+        "timeout": 0,
+        "to_a": 0,
+        "to_d": 0,
+        "to_h": 0,
+        "weight": 4
+      },
+      {
+        "actual_kind": "& Ration~ of Food",
+        "aware": 1,
+        "inscription": "",
+        "known_kind": "& Ration~ of Food",
+        "pval": 0,
+        "quantity": 4,
+        "timeout": 0,
+        "to_a": 0,
+        "to_d": 0,
+        "to_h": 0,
+        "weight": 8
+      },
+      {
+        "actual_kind": "& Set~ of Leather Gloves",
+        "aware": 1,
+        "inscription": "",
+        "known_kind": "& Set~ of Leather Gloves",
+        "pval": 0,
+        "quantity": 1,
+        "timeout": 0,
+        "to_a": 2,
+        "to_d": 0,
+        "to_h": 0,
+        "weight": 10
+      },
+      {
+        "actual_kind": "Cure Serious Wounds",
+        "aware": 1,
+        "inscription": "",
+        "known_kind": "Cure Serious Wounds",
+        "pval": 0,
+        "quantity": 1,
+        "timeout": 0,
+        "to_a": 0,
+        "to_d": 0,
+        "to_h": 0,
+        "weight": 4
+      },
+      {
+        "actual_kind": "& Cloak~",
+        "aware": 1,
+        "inscription": "",
+        "known_kind": "& Cloak~",
+        "pval": 0,
+        "quantity": 1,
+        "timeout": 0,
+        "to_a": 0,
+        "to_d": 0,
+        "to_h": 0,
+        "weight": 10
+      },
+      {
+        "actual_kind": "& Pair~ of Leather Sandals",
+        "aware": 1,
+        "inscription": "",
+        "known_kind": "& Pair~ of Leather Sandals",
+        "pval": 0,
+        "quantity": 1,
+        "timeout": 0,
+        "to_a": 0,
+        "to_d": 0,
+        "to_h": 0,
+        "weight": 15
+      },
+      {
+        "actual_kind": "Slow Digestion",
+        "aware": 1,
+        "inscription": "",
+        "known_kind": "Slow Digestion",
+        "pval": 0,
+        "quantity": 1,
+        "timeout": 0,
+        "to_a": 0,
+        "to_d": 0,
+        "to_h": 0,
+        "weight": 3
+      },
+      {
+        "actual_kind": "& Wooden Torch~",
+        "aware": 1,
+        "inscription": "",
+        "known_kind": "& Wooden Torch~",
+        "pval": 0,
+        "quantity": 2,
+        "timeout": 5000,
+        "to_a": 0,
+        "to_d": 0,
+        "to_h": 0,
+        "weight": 22
+      },
+      {
+        "actual_kind": "& Wooden Torch~",
+        "aware": 1,
+        "inscription": "",
+        "known_kind": "& Wooden Torch~",
+        "pval": 0,
+        "quantity": 1,
+        "timeout": 564,
+        "to_a": 0,
+        "to_d": 0,
+        "to_h": 0,
+        "weight": 22
+      },
+      {
+        "actual_kind": "& Metal Cap~",
+        "aware": 1,
+        "inscription": "",
+        "known_kind": "& Metal Cap~",
+        "pval": 0,
+        "quantity": 1,
+        "timeout": 0,
+        "to_a": 0,
+        "to_d": 0,
+        "to_h": 0,
+        "weight": 25
+      },
+      {
+        "actual_kind": "& Robe~",
+        "aware": 1,
+        "inscription": "",
+        "known_kind": "& Robe~",
+        "pval": 0,
+        "quantity": 1,
+        "timeout": 0,
+        "to_a": 0,
+        "to_d": 0,
+        "to_h": 0,
+        "weight": 20
+      },
+      {
+        "actual_kind": "& Small Metal Shield~",
+        "aware": 1,
+        "inscription": "",
+        "known_kind": "& Small Metal Shield~",
+        "pval": 0,
+        "quantity": 1,
+        "timeout": 0,
+        "to_a": 0,
+        "to_d": 0,
+        "to_h": 0,
+        "weight": 60
+      },
+      {
+        "actual_kind": "Searching",
+        "aware": 1,
+        "inscription": "",
+        "known_kind": "Searching",
+        "pval": 0,
+        "quantity": 1,
+        "timeout": 0,
+        "to_a": 0,
+        "to_d": 0,
+        "to_h": 0,
+        "weight": 2
+      },
+      {
+        "actual_kind": "Treasure Detection",
+        "aware": 1,
+        "inscription": "",
+        "known_kind": "Treasure Detection",
+        "pval": 0,
+        "quantity": 1,
+        "timeout": 0,
+        "to_a": 0,
+        "to_d": 0,
+        "to_h": 0,
+        "weight": 5
+      },
+      {
+        "actual_kind": "Feather Falling",
+        "aware": 1,
+        "inscription": "",
+        "known_kind": "Feather Falling",
+        "pval": 0,
+        "quantity": 1,
+        "timeout": 0,
+        "to_a": 0,
+        "to_d": 0,
+        "to_h": 0,
+        "weight": 2
+      },
+      {
+        "actual_kind": "Detect Invisible",
+        "aware": 1,
+        "inscription": "",
+        "known_kind": "Detect Invisible",
+        "pval": 0,
+        "quantity": 2,
+        "timeout": 0,
+        "to_a": 0,
+        "to_d": 0,
+        "to_h": 0,
+        "weight": 5
+      }
+    ],
+    "monsters": [
+      {
+        "hp": 9,
+        "id": 1,
+        "max_hp": 9,
+        "name": "wild cat",
+        "speed": 118,
+        "visible": 1,
+        "x": 131,
+        "y": 41
+      },
+      {
+        "hp": 9,
+        "id": 2,
+        "max_hp": 9,
+        "name": "wild cat",
+        "speed": 118,
+        "visible": 1,
+        "x": 132,
+        "y": 41
+      },
+      {
+        "hp": 10,
+        "id": 3,
+        "max_hp": 10,
+        "name": "small kobold",
+        "speed": 110,
+        "visible": 0,
+        "x": 142,
+        "y": 45
+      },
+      {
+        "hp": 11,
+        "id": 4,
+        "max_hp": 11,
+        "name": "large white snake",
+        "speed": 100,
+        "visible": 0,
+        "x": 127,
+        "y": 41
+      },
+      {
+        "hp": 8,
+        "id": 5,
+        "max_hp": 8,
+        "name": "small kobold",
+        "speed": 110,
+        "visible": 0,
+        "x": 133,
+        "y": 47
+      },
+      {
+        "hp": 8,
+        "id": 6,
+        "max_hp": 8,
+        "name": "rock lizard",
+        "speed": 109,
+        "visible": 0,
+        "x": 116,
+        "y": 26
+      },
+      {
+        "hp": 7,
+        "id": 7,
+        "max_hp": 7,
+        "name": "giant yellow centipede",
+        "speed": 111,
+        "visible": 0,
+        "x": 44,
+        "y": 26
+      },
+      {
+        "hp": 7,
+        "id": 8,
+        "max_hp": 7,
+        "name": "giant yellow centipede",
+        "speed": 111,
+        "visible": 0,
+        "x": 69,
+        "y": 17
+      },
+      {
+        "hp": 2,
+        "id": 9,
+        "max_hp": 2,
+        "name": "giant white mouse",
+        "speed": 109,
+        "visible": 0,
+        "x": 45,
+        "y": 50
+      },
+      {
+        "hp": 4,
+        "id": 10,
+        "max_hp": 4,
+        "name": "fruit bat",
+        "speed": 119,
+        "visible": 0,
+        "x": 187,
+        "y": 12
+      },
+      {
+        "hp": 2,
+        "id": 11,
+        "max_hp": 2,
+        "name": "grey mold",
+        "speed": 111,
+        "visible": 0,
+        "x": 49,
+        "y": 9
+      },
+      {
+        "hp": 10,
+        "id": 12,
+        "max_hp": 10,
+        "name": "floating eye",
+        "speed": 111,
+        "visible": 0,
+        "x": 13,
+        "y": 53
+      },
+      {
+        "hp": 2,
+        "id": 13,
+        "max_hp": 2,
+        "name": "giant white mouse",
+        "speed": 110,
+        "visible": 0,
+        "x": 144,
+        "y": 28
+      },
+      {
+        "hp": 10,
+        "id": 14,
+        "max_hp": 10,
+        "name": "white worm mass",
+        "speed": 100,
+        "visible": 0,
+        "x": 166,
+        "y": 14
+      },
+      {
+        "hp": 7,
+        "id": 15,
+        "max_hp": 7,
+        "name": "rock lizard",
+        "speed": 111,
+        "visible": 0,
+        "x": 149,
+        "y": 57
+      },
+      {
+        "hp": 14,
+        "id": 16,
+        "max_hp": 14,
+        "name": "metallic blue centipede",
+        "speed": 118,
+        "visible": 0,
+        "x": 85,
+        "y": 14
+      },
+      {
+        "hp": 1,
+        "id": 17,
+        "max_hp": 1,
+        "name": "giant white mouse",
+        "speed": 109,
+        "visible": 0,
+        "x": 155,
+        "y": 54
+      },
+      {
+        "hp": 2,
+        "id": 18,
+        "max_hp": 2,
+        "name": "giant white mouse",
+        "speed": 110,
+        "visible": 0,
+        "x": 73,
+        "y": 9
+      },
+      {
+        "hp": 6,
+        "id": 19,
+        "max_hp": 6,
+        "name": "white icky thing",
+        "speed": 111,
+        "visible": 0,
+        "x": 123,
+        "y": 15
+      },
+      {
+        "hp": 2,
+        "id": 20,
+        "max_hp": 2,
+        "name": "grey mushroom patch",
+        "speed": 109,
+        "visible": 0,
+        "x": 50,
+        "y": 34
+      },
+      {
+        "hp": 7,
+        "id": 21,
+        "max_hp": 7,
+        "name": "white icky thing",
+        "speed": 110,
+        "visible": 0,
+        "x": 10,
+        "y": 48
+      },
+      {
+        "hp": 3,
+        "id": 22,
+        "max_hp": 3,
+        "name": "soldier ant",
+        "speed": 110,
+        "visible": 0,
+        "x": 47,
+        "y": 9
+      }
+    ],
+    "scope": "diagnostic actual state; never supplied to Borg inputs",
+    "timed": {
+      "CUT": 6,
+      "FOOD": 1929
+    }
+  },
+  "energy": 4259980,
+  "exp": 98,
+  "full": false,
+  "gold": 285,
+  "height": 24,
+  "hp": -3,
+  "index": 26825,
+  "input": 11786,
+  "inventory": {
+    "equipment": [
+      {
+        "attr": 9,
+        "description": "a Rapier (1d6) (+0,+0)",
+        "label": "a",
+        "slot": "weapon",
+        "weight": 40
+      },
+      {
+        "attr": 2,
+        "description": "(nothing)",
+        "label": "b",
+        "slot": "shooting",
+        "weight": 0
+      },
+      {
+        "attr": 5,
+        "description": "a Ring of Searching <+1>",
+        "label": "c",
+        "slot": "right hand",
+        "weight": 2
+      },
+      {
+        "attr": 9,
+        "description": "a Ring of Feather Falling",
+        "label": "d",
+        "slot": "left hand",
+        "weight": 2
+      },
+      {
+        "attr": 15,
+        "description": "an Amulet of Slow Digestion",
+        "label": "e",
+        "slot": "neck",
+        "weight": 3
+      },
+      {
+        "attr": 7,
+        "description": "a Wooden Torch (564 turns)",
+        "label": "f",
+        "slot": "light",
+        "weight": 22
+      },
+      {
+        "attr": 6,
+        "description": "a Robe [2,+0]",
+        "label": "g",
+        "slot": "body",
+        "weight": 20
+      },
+      {
+        "attr": 5,
+        "description": "a Cloak [1,+0]",
+        "label": "i",
+        "slot": "back",
+        "weight": 10
+      },
+      {
+        "attr": 2,
+        "description": "a Small Metal Shield [5,+0]",
+        "label": "m",
+        "slot": "arm",
+        "weight": 60
+      },
+      {
+        "attr": 2,
+        "description": "a Metal Cap [3,+0]",
+        "label": "n",
+        "slot": "head",
+        "weight": 25
+      },
+      {
+        "attr": 15,
+        "description": "a Set of Leather Gloves of Free Action [1,+2]",
+        "label": "o",
+        "slot": "hands",
+        "weight": 10
+      },
+      {
+        "attr": 15,
+        "description": "a Pair of Leather Sandals [1,+0]",
+        "label": "p",
+        "slot": "feet",
+        "weight": 15
+      }
+    ],
+    "pack": [
+      {
+        "attr": 12,
+        "description": "4 Books of Magic Spells [First Spells]",
+        "label": "a",
+        "slot": "",
+        "weight": 120
+      },
+      {
+        "attr": 15,
+        "description": "4 Rations of Food",
+        "label": "b",
+        "slot": "",
+        "weight": 32
+      },
+      {
+        "attr": 4,
+        "description": "16 Potions of Cure Light Wounds",
+        "label": "c",
+        "slot": "",
+        "weight": 64
+      },
+      {
+        "attr": 24,
+        "description": "a Potion of Cure Serious Wounds",
+        "label": "d",
+        "slot": "",
+        "weight": 4
+      },
+      {
+        "attr": 3,
+        "description": "4 Potions of Boldness",
+        "label": "e",
+        "slot": "",
+        "weight": 16
+      },
+      {
+        "attr": 1,
+        "description": "a Scroll of Treasure Detection",
+        "label": "f",
+        "slot": "",
+        "weight": 5
+      },
+      {
+        "attr": 1,
+        "description": "2 Scrolls of Detect Invisible",
+        "label": "g",
+        "slot": "",
+        "weight": 10
+      },
+      {
+        "attr": 7,
+        "description": "2 Wooden Torches (5000 turns)",
+        "label": "i",
+        "slot": "",
+        "weight": 44
+      }
+    ],
+    "quiver": [],
+    "remaining_weight": 395,
+    "total_weight": 504
+  },
+  "level": 5,
+  "max_depth": 1,
+  "max_hp": 26,
+  "max_level": 5,
+  "max_sp": 10,
+  "noscore": 32,
+  "phase": "wait",
+  "quick": 0,
+  "quick_rng": 1564501220,
+  "race_idx": 4,
+  "rng_index": 31,
+  "sp": 2,
+  "spells": {
+    "caster": 1,
+    "class": "Mage",
+    "learned": [
+      {
+        "book": "4 Books of Magic Spells [First Spells]",
+        "book_label": "a",
+        "castable": 0,
+        "fail": 5,
+        "label": "a",
+        "level": 1,
+        "mana": 1,
+        "name": "Magic Missile",
+        "status": "Dead"
+      },
+      {
+        "book": "4 Books of Magic Spells [First Spells]",
+        "book_label": "a",
+        "castable": 0,
+        "fail": 6,
+        "label": "b",
+        "level": 1,
+        "mana": 2,
+        "name": "Light Room",
+        "status": "Dead"
+      },
+      {
+        "book": "4 Books of Magic Spells [First Spells]",
+        "book_label": "a",
+        "castable": 0,
+        "fail": 5,
+        "label": "c",
+        "level": 1,
+        "mana": 1,
+        "name": "Find Traps, Doors & Stairs",
+        "status": "Dead"
+      },
+      {
+        "book": "4 Books of Magic Spells [First Spells]",
+        "book_label": "a",
+        "castable": 0,
+        "fail": 5,
+        "label": "d",
+        "level": 2,
+        "mana": 2,
+        "name": "Phase Door",
+        "status": "Dead"
+      },
+      {
+        "book": "4 Books of Magic Spells [First Spells]",
+        "book_label": "a",
+        "castable": 0,
+        "fail": 17,
+        "label": "e",
+        "level": 2,
+        "mana": 2,
+        "name": "Electric Arc",
+        "status": "Dead"
+      },
+      {
+        "book": "4 Books of Magic Spells [First Spells]",
+        "book_label": "a",
+        "castable": 0,
+        "fail": 10,
+        "label": "f",
+        "level": 3,
+        "mana": 2,
+        "name": "Detect Monsters",
+        "status": "Dead"
+      }
+    ],
+    "mana": 2,
+    "max_mana": 10
+  },
+  "turn": 411674,
+  "width": 80,
+  "world": "27e04be1af5245d7",
+  "x": 130,
+  "y": 41
+}

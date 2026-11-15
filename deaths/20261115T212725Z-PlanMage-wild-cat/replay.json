@@ -1,0 +1,12 @@
+{
+  "status": "verified",
+  "command": "angband-recorder replay --verify INPUT OUTPUT",
+  "frozen_executable_sha256": "f13c46b148c6e614d21d0e525cf448df6c0376173882f1d31b069bdf97839885",
+  "console": "VERIFIED: inputs, file bytes, messages, frames and completion receipt\n",
+  "starting_save_sha256": "b0e2399b12ee19c01784022a136f39d741840ca84a1456d05f3d9baf13f8b010",
+  "final_save_sha256": "bc0c0eefa4eece1d28c8cb863ca839a150841e08b4970b4fc530f10cbeb12998",
+  "final_saves_byte_identical": true,
+  "core_traces_byte_identical": true,
+  "profile_isolated": true,
+  "not_an_independent_life": true
+}
