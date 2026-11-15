@@ -1,0 +1,20 @@
+{
+  "schema": "borg-reborn-rs/incident-counterfactual-export@1",
+  "archive": "20261115T212321Z-PlanMage-fix-350-validation.zip",
+  "archive_sha256": "8f4c58aabd985bbabab372fa49c4f74ee65b46b701c3ae94e223855d58125fbf",
+  "archive_bytes": 3273669,
+  "original_life": "20261115T212321Z-PlanMage",
+  "same_life_repeated": true,
+  "full_original_replay_verified": true,
+  "saved_position_branches_fresh_borg": true,
+  "original_died": 4,
+  "final_fixed_survived": 4,
+  "independent_sample_claim": false,
+  "earlier_failed_patches_and_startup_attempts_retained": true,
+  "fixed_source_sha256": "0f2e003f988fba56929f259f6098d356ec12c0ec024419750937a13a7dce5d58",
+  "fixed_binary_sha256": "27f5646114167cbb080eb20f95227097a36b77b6c86cca8feec4f4766b12526a",
+  "frozen_executables_local_only": true,
+  "fix_pr": "https://github.com/diegoami/borg-reborn-rs/pull/355",
+  "recorder_pr": "https://github.com/diegoami/angband-recorder/pull/7",
+  "files": 767
+}
