@@ -1,0 +1,94 @@
+{
+  "schema": "player-cemetery/canonical-case-pointer@1",
+  "repository": "diegoami/borg-cemetery",
+  "commit": "ef87686",
+  "path": "deaths/recorded-planmage-20261115-wild-cat",
+  "migrated_files": [
+    {
+      "old_path": "deaths/20261115T212725Z-PlanMage-wild-cat/fix-350/README.md",
+      "canonical_path": "deaths/recorded-planmage-20261115-wild-cat/fix-350/README.md",
+      "sha256": "734094201f01ba4750222066e57125ed1b72d96a039bae39594fb8869f1afd95"
+    },
+    {
+      "old_path": "deaths/20261115T212725Z-PlanMage-wild-cat/fix-350/validation.json",
+      "canonical_path": "deaths/recorded-planmage-20261115-wild-cat/fix-350/validation.json",
+      "sha256": "0bf8fbe7a9d26feadeccc169d7c5113caf1a84b250c159ba74b6b87401aeec67"
+    },
+    {
+      "old_path": "deaths/20261115T212725Z-PlanMage-wild-cat/frame-26812.txt",
+      "canonical_path": "deaths/recorded-planmage-20261115-wild-cat/frame-26812.txt",
+      "sha256": "526537b8a03023772e672161556e3db4bbc2917cc6d918caaf0c0eb2bb9e1e05"
+    },
+    {
+      "old_path": "deaths/20261115T212725Z-PlanMage-wild-cat/frame-26816.txt",
+      "canonical_path": "deaths/recorded-planmage-20261115-wild-cat/frame-26816.txt",
+      "sha256": "8ef8f9aaf3c8b705418fbf9e4e6e8b621c64ac1b3272578f70aae7ae4736cf6c"
+    },
+    {
+      "old_path": "deaths/20261115T212725Z-PlanMage-wild-cat/frame-26820.txt",
+      "canonical_path": "deaths/recorded-planmage-20261115-wild-cat/frame-26820.txt",
+      "sha256": "9395f73d93f798d3fecc65196131a0600c301a06999f7161c3e0db51acbf90ab"
+    },
+    {
+      "old_path": "deaths/20261115T212725Z-PlanMage-wild-cat/frame-26824.txt",
+      "canonical_path": "deaths/recorded-planmage-20261115-wild-cat/frame-26824.txt",
+      "sha256": "2a8f36ae4f6d95d1ec7671fb70840caa3d3f8ce419d382f13b6283de2508b925"
+    },
+    {
+      "old_path": "deaths/20261115T212725Z-PlanMage-wild-cat/frame-26825.txt",
+      "canonical_path": "deaths/recorded-planmage-20261115-wild-cat/frame-26825.txt",
+      "sha256": "c3e2b1eb5f1cafec9e5fa1cf5ff5fe6b49924fb88bdea34ab3e4cf56ceb5a061"
+    },
+    {
+      "old_path": "deaths/20261115T212725Z-PlanMage-wild-cat/messages-final.jsonl",
+      "canonical_path": "deaths/recorded-planmage-20261115-wild-cat/messages-final.jsonl",
+      "sha256": "f3ef324b79cc01b1455c4a635c15f29db9f4e556104c0133fb1aff314577dd93"
+    },
+    {
+      "old_path": "deaths/20261115T212725Z-PlanMage-wild-cat/record.json",
+      "canonical_path": "deaths/recorded-planmage-20261115-wild-cat/record.json",
+      "sha256": "98ec47b5a44ba2fa219850cd98486e066b421dd70078fa6a2c7f3b2e255ae844"
+    },
+    {
+      "old_path": "deaths/20261115T212725Z-PlanMage-wild-cat/replay.json",
+      "canonical_path": "deaths/recorded-planmage-20261115-wild-cat/replay.json",
+      "sha256": "a9d87ab355edd5798e6dd32c2a584f91a6703a5a27fbdd42bad3bc241703969a"
+    },
+    {
+      "old_path": "deaths/20261115T212725Z-PlanMage-wild-cat/report.md",
+      "canonical_path": "deaths/recorded-planmage-20261115-wild-cat/report.md",
+      "sha256": "472d7d896b4e1ee04a78d0d383ad4f4fcb15641c19553f059b0ca9f29d7bb4ea"
+    },
+    {
+      "old_path": "deaths/20261115T212725Z-PlanMage-wild-cat/state-26812.json",
+      "canonical_path": "deaths/recorded-planmage-20261115-wild-cat/state-26812.json",
+      "sha256": "2ac80bfdb7768a22b7489d3fcc7d970c8039dcc8fb70b8569254adceb7abf40d"
+    },
+    {
+      "old_path": "deaths/20261115T212725Z-PlanMage-wild-cat/state-26816.json",
+      "canonical_path": "deaths/recorded-planmage-20261115-wild-cat/state-26816.json",
+      "sha256": "3577087cff83b55e61ec2b688e9411e6bae6a678e71affc3cb35351cc01d098d"
+    },
+    {
+      "old_path": "deaths/20261115T212725Z-PlanMage-wild-cat/state-26820.json",
+      "canonical_path": "deaths/recorded-planmage-20261115-wild-cat/state-26820.json",
+      "sha256": "e5ca5b4765be861b1e9fb4706997a252939ee0490a8c30d2bd29d231ff9e3e8a"
+    },
+    {
+      "old_path": "deaths/20261115T212725Z-PlanMage-wild-cat/state-26824.json",
+      "canonical_path": "deaths/recorded-planmage-20261115-wild-cat/state-26824.json",
+      "sha256": "67915c2b7753b8c6c14e4a13c3ff394ef123a3cb051ff00fa76052351439c03e"
+    },
+    {
+      "old_path": "deaths/20261115T212725Z-PlanMage-wild-cat/state-26825.json",
+      "canonical_path": "deaths/recorded-planmage-20261115-wild-cat/state-26825.json",
+      "sha256": "0f8e10218c656212dc45ad362b45fb5ee3272f9e9e48019c0f9079b675aaa2c7"
+    },
+    {
+      "old_path": "deaths/20261115T212725Z-PlanMage-wild-cat/trace-final.jsonl",
+      "canonical_path": "deaths/recorded-planmage-20261115-wild-cat/trace-final.jsonl",
+      "sha256": "31fb98ddd8fcd04df546b20bf00ebc2cedebae6b7576418baffb6a55243cfaa6"
+    }
+  ],
+  "raw_recording_archives_unchanged": true
+}
